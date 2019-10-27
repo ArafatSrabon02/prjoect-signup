@@ -1,0 +1,140 @@
+body{
+background-image: url(../images/818978.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	background-position: center left;
+	margin: 0;
+}
+.container{
+    background-color: #00000085;
+}
+.container header{
+	overflow: hidden;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.logo{
+
+padding-top: 5px;
+
+width: 20%;
+
+float: left;
+}
+.container .menubar{
+
+width: 80%;
+
+float: right;
+
+margin-top: 15px;
+}
+.container ul{
+
+margin: 0;
+
+padding: 0;
+
+list-style-type: none;
+
+text-align: right;
+}
+.container ul li{
+
+display: inline-block;
+}
+.container ul li a{
+
+display: block;
+
+font-size: 16px;
+
+text-decoration: none;
+
+padding: 10px 15px;
+
+color: #ffffff;
+}
+
+.signup-section{
+
+width: 20%;
+
+margin-right: 200px;
+
+float: right;
+}
+.signup-box{
+}
+.signup-box h1{
+
+color: #ffffffad;
+
+margin: 20px 0px 20px 0px;
+
+text-shadow: 5px 4px 5px #000000db;
+
+font-size: 30px;
+}
+.signup-box p{
+
+margin: 5px 0px 20px 0px;
+}
+.signup-form{
+
+}
+.signup-form form{
+
+background-color: #1d160a9e;
+
+padding: 20px;
+
+box-shadow: 10px 1px 10px #151515d1;
+}
+.signup-form form label{
+
+text-align: right;
+
+font-size: 17px;
+
+color: #ffffffa8;
+}
+.signup-form form input{
+	
+}
+.signup-form form p{
+
+margin: 5px;
+
+text-align: center;
+
+color: #ffffffa8;
+}
+.signup-form form input{
+
+width: 100%;
+
+padding: 5px 5px;
+
+box-sizing: border-box;
+
+font-size: 12px;
+
+color: #555;
+
+border: 1px solid #795652;
+}
+.signup-form form input[type="submit"]
+{
+    background-color: black;
+    color: #e8a018;
+    box-shadow: 3px 3px 10px #000000c7;
+    border-color: black;
+    cursor: pointer;
+}
+.signup-form form a{
+
+color: #ffffffa8;
+}
